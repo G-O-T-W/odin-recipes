@@ -1,0 +1,46 @@
+h1 {
+    background-color: hsl(180, 100%, 85%);
+    color:hsl(32, 74%, 34%);
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 36px;
+    width: 400px;
+    height: auto;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h2, h3 {
+    background-color: hsl(180, 100%, 85%);
+    color:hsl(32, 74%, 34%);
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    width: 400px;
+    height: auto;
+}
+
+p {
+    width: 400px;
+    height: auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    background-color: hsl(36, 100%, 90%);
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width: 360px;
+    height: auto;
+}
+
+.item-sub-heading {
+    background-color: white;
+    width: 300px;
+}
+
+.item-sub-heading li {
+    width: 320px;
+}
